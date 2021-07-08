@@ -1,4 +1,4 @@
-local Characters = {
+local alphabet = {
     a = "😀 ",
     A = "😃 ",
     b = "😄 ",
